@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-14T18:16:03 PDT" name="Default suite" finished-at="2024-06-14T18:16:07 PDT" duration-ms="3528">
+    <groups>
+    </groups>
+    <test started-at="2024-06-14T18:16:03 PDT" name="Default test" finished-at="2024-06-14T18:16:07 PDT" duration-ms="3528">
+      <class name="testCases.SampleTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.SampleTest@1fa268de]" started-at="2024-06-14T18:16:03 PDT" name="setup" finished-at="2024-06-14T18:16:06 PDT" duration-ms="2308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUrl()[pri:1, instance:testCases.SampleTest@1fa268de]" started-at="2024-06-14T18:16:06 PDT" name="verifyUrl" finished-at="2024-06-14T18:16:06 PDT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method signature="loginPage()[pri:2, instance:testCases.SampleTest@1fa268de]" started-at="2024-06-14T18:16:06 PDT" name="loginPage" finished-at="2024-06-14T18:16:06 PDT" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="verifyHomePage()[pri:3, instance:testCases.SampleTest@1fa268de]" started-at="2024-06-14T18:16:06 PDT" name="verifyHomePage" finished-at="2024-06-14T18:16:06 PDT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method signature="addItemsToCart()[pri:4, instance:testCases.SampleTest@1fa268de]" started-at="2024-06-14T18:16:06 PDT" name="addItemsToCart" finished-at="2024-06-14T18:16:06 PDT" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemsToCart -->
+        <test-method signature="verifyItemsOnShoppingCart()[pri:5, instance:testCases.SampleTest@1fa268de]" started-at="2024-06-14T18:16:06 PDT" name="verifyItemsOnShoppingCart" finished-at="2024-06-14T18:16:06 PDT" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyItemsOnShoppingCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.SampleTest@1fa268de]" started-at="2024-06-14T18:16:06 PDT" name="tearDown" finished-at="2024-06-14T18:16:07 PDT" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
